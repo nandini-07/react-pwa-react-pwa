@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: merienda;
+}
+h1 {
+  text-align: center;
+}
+button {
+  margin: 3vh;
+}
+label {
+  margin-bottom: 3vh;
+  font-weight: bold;
+}
+.table-border {
+  border: 2px solid black !important;
+}
+.t {
+  color: white;
+}

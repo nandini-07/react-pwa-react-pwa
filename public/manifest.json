@@ -1,0 +1,19 @@
+{  
+    "name": "React Application",  
+    "short_name": "React App",  
+    "display":"standalone",
+    "background_color":"#fff",
+    "description": "React with Progressive web application.",  
+    "start_url": "./index.html?home=true", 
+    "id":"/react-pwa/react-pwa/public/index.html?home=true", 
+    "icons": [
+        {
+          "src": "./icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+       
+      ]
+   
+  }  
+  
